@@ -1,14 +1,12 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "README"
+permalink: "/readme/"
 layout: page
 ---
 
 Hi! I'm a **game producer** and **designer** attending the USC School of Cinematic Arts.
-
 BA in Interactive Media & Game Design (2018 - 2022)
 Minors in Project Management, Video Game Programming
-
 My career goal is to deliver impactful, immersive games by crafting collaborative work environments.
 I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
 
