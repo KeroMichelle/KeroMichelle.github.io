@@ -21,8 +21,10 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:michellee0326@gmail.com"}
-  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/michelleliu6"}
+    - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/michelleliu6"}
+  - {title: Linkedin, icon: linkedin, url: "https://www.linkedin.com/in/michelleliu6"{:target="_blank"}}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/keromichellee"}
+
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
