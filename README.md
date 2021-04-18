@@ -4,6 +4,19 @@ permalink: "/about/"
 layout: page
 ---
 
+Hi! I'm a **game producer** and **designer** attending the USC School of Cinematic Arts.
+
+   BA in Interactive Media & Game Design (2018 - 2022)
+   Minors in Project Management, Video Game Programming
+
+My career goal is to deliver impactful, immersive games by crafting collaborative work environments.
+I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
+
+Current favorites: Slay the Spire, Animal Crossing, Rainbow Six Siege
+
+Click here for my resume.
+
+
 ## Installation
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
