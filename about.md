@@ -24,13 +24,12 @@ Current favorites: Slay the Spire, Animal Crossing, Rainbow Six Siege
 | Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
 | Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
 
+## With Lines
 |![flamingo gif](/assets/images/kero.gif)|![dancing flamingo](/assets/images/kero arms up.gif)|
 
-|------------------|------------------|-----------------|-----------------|
-| First entry      | Second entry     | Third entry     | Fourth entry    |
-| Fifth entry      | Sixth entry      | Seventh entry   | Eight entry     |
-| Ninth entry      | Tenth entry      | Eleventh entry  | Twelfth entry   |
-| Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
+## No Lines
+![flamingo gif](/assets/images/kero.gif)|![dancing flamingo](/assets/images/kero arms up.gif)
+
 
 ![flamingo gif](/assets/images/kero.gif)
 
