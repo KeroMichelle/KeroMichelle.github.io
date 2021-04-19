@@ -22,9 +22,7 @@ Responsibilities:
 ## USC Games Expo 2020
 #### Student Producer | May 2020
  
-As the world’s largest single-school games showcase, USC Games Expo provides students, alumni, and faculty the opportunity to showcase their unique projects. Presented by Jam City, USC Games Expo 2020 not only featured innovative endeavors into console and PC gaming, but also VR and board gaming.
-7-8 hour stream featuring 100+ games
-5000 max viewers, 1200 average viewers
+As the world's largest single-school games showcase, USC Games Expo provides students, alumni, and faculty the opportunity to showcase their unique projects. USC Games Expo 2020 not only featured innovative endeavors into console and PC gaming, but also VR and tabletop gaming.
  
 Responsibilities:
 * Collaborated with faculty, students, external partners, and the Esports Union to organize and facilitate the first-ever virtual USC Games Expo
