@@ -15,11 +15,8 @@ Responsibilities:
 * Led weekly staff and monthly team meetings to track progress and brainstorm content ideas
 * Defined, implemented, and continuously monitored strategies to drive awareness and achieve the academic, professional, and community goals of USC Games
  
- 
 ![expo](/assets/images/expo.jpg)
-
----
-
+ 
 ## USC Games Expo 2020
 #### Student Producer | May 2020
 
