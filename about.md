@@ -13,6 +13,6 @@ I aim to empower my teammates with the resources and direction needed to overcom
 
 Current favorites: Slay the Spire, Pokemon, Rainbow Six Siege
 
-[Click here for my resume.](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
+[Add me on LinkedIn!](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
 
-![flamingo gif](/assets/images/kero.gif) ![flamingo gif](/assets/images/kero.gif) ![flamingo gif](/assets/images/kero.gif)
+![flamingo gif](/assets/images/kero.gif) ![flamingo gif](/assets/images/kero.gif) ![flamingo gif](/assets/images/kero.gif) ![flamingo gif](/assets/images/kero.gif)
