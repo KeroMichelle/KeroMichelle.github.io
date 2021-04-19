@@ -24,16 +24,18 @@ Responsibilities:
  
 As the world's largest single-school games showcase, USC Games Expo provides students, alumni, and faculty the opportunity to showcase their unique projects. USC Games Expo 2020 not only featured innovative endeavors into console and PC gaming, but also VR and tabletop gaming.
  
+#### 8 hour stream featuring 100+ games| 5000 max viewers, 1200 avg viewers | made the front page of Twitch : D
+ 
 > 8 hour stream featuring 100+ games
 >
 > 5000 max viewers, 1200 avg viewers, made the front page of Twitch : D
+ 
+[Check out the recap video!](https://youtu.be/FLs2rY4QWE4){:target="_blank"}
  
 Responsibilities:
 * Collaborated with faculty, students, external partners, and the Esports Union to organize and facilitate the first-ever virtual USC Games Expo
 * Created and implemented a marketing strategy to ensure all trailers, demos, and promotional materials were released in a timely and effective manner
 * Handled late deliverables and communicated with exhibitors to resolve project errors and procure missing assets
 * Assisted technical producers with website development and streaming challenges
- 
-[Check out the recap video!](https://youtu.be/FLs2rY4QWE4){:target="_blank"}
  
 ![expo2020](/assets/images/expo2020.jpg)
