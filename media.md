@@ -13,7 +13,6 @@ Responsibilities:
 * Managed the workflow and production of creative content covering students, esports, and events
 * Supported multiple writing and video projects in various stages of production simultaneously, while communicating progress to department leads and faculty advisors
 * Led weekly staff and monthly team meetings to track progress and brainstorm content ideas
-* Defined, implemented, and continuously monitored strategies to drive awareness and achieve the academic, professional, and community goals of USC Games
  
 ![expo](/assets/images/expo.jpg)
  
@@ -32,6 +31,5 @@ Responsibilities:
 * Collaborated with faculty, students, external partners, and the Esports Union to organize and facilitate the first-ever virtual USC Games Expo
 * Created and implemented a marketing strategy to ensure all trailers, demos, and promotional materials were released in a timely and effective manner
 * Handled late deliverables and communicated with exhibitors to resolve project errors and procure missing assets
-* Assisted technical producers with website development and streaming challenges
- 
+  
 ![expo2020](/assets/images/expo2020.jpg)

@@ -13,7 +13,6 @@ Leechbug is an action-adventure roguelike game with a focus on strategic combat 
 Responsibilities:
 * Defined goals and managed schedules to meet project milestones on-time and within scope
 * Used Jira and Agile to backlog, prioritize, assign, and track design/engineering/art/audio tasks
-* Organized design and engineering development pipelines to facilitate iteration and collaboration
 * Created presentations and reports to communicate progress to teammates, faculty, and externals
  
 ![statue](/assets/images/statue.png)
