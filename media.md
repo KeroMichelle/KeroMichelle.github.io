@@ -25,7 +25,9 @@ Responsibilities:
 As the world's largest single-school games showcase, USC Games Expo provides students, alumni, and faculty the opportunity to showcase their unique projects. USC Games Expo 2020 not only featured innovative endeavors into console and PC gaming, but also VR and tabletop gaming.
  
 > 8 hour stream featuring 100+ games
+>
 > 5000 max viewers, 1200 avg viewers
+>
 > made the front page of Twitch : D
  
 Responsibilities:
