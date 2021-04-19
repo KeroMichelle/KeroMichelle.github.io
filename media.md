@@ -16,3 +16,15 @@ Responsibilities:
 * Defined, implemented, and continuously monitored strategies to drive awareness and achieve the academic, professional, and community goals of USC Games
  
 ![expo](/assets/images/expo.jpg)
+
+ 
+## USC Games Expo 2020
+#### Student Producer | May 2020
+
+Responsibilities:
+* Collaborated with faculty, students, external partners, and the Esports Union to organize and facilitate the first-ever virtual USC Games Expo
+* Created and implemented a marketing strategy to ensure all trailers, demos, and promotional materials were released in a timely and effective manner
+* Handled late deliverables and communicated with exhibitors to resolve project errors and procure missing assets
+* Assisted technical producers with website development and streaming challenges
+
+[Check out the recap video!](https://youtu.be/FLs2rY4QWE4){:target="_blank"}
