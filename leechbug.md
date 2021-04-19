@@ -20,6 +20,3 @@ Responsibilities:
 * Conduct weekly progress and wellness check-ins with a remote multidisciplinary team of 28 students
  
 ![statue](/assets/images/statue.png)
-
-
-{% include embed.html url="https://www.youtube.com/watch?v=OWOuS1a_mzs&ab_channel=Glowcone" %}
