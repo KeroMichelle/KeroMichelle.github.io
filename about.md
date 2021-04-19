@@ -12,7 +12,7 @@ My career goal is to deliver impactful, immersive games by crafting collaborativ
 
 Current favorites:  Slay the Spire, Pokemon, Rainbow Six Siege
  
-[Add me on LinkedIn!](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
+Other interests: arts & crafts, college radio, [anime](https://anilist.co/user/KeroMichelle/){:target="_blank"}, tea, hiking
  
 [Click here for my resume.](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
  
