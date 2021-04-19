@@ -4,7 +4,7 @@ permalink: "/media"
 layout: page
 ---
 
-#### Director | Team of 30+ | Fall 2019 - Fall 2020
+#### Director | Team of 30+ | Aug 2019 - Oct 2020
 
 USC Games Media is a faculty and student-run organization within the Interactive Media & Games Division of the USC School of Cinematic Arts. As the Director, I guided the program's overall vision and brand image through content creation, industry involvement, and community engagement.
 
@@ -17,3 +17,20 @@ Responsibilities:
  
  
 ![expo](/assets/images/expo.jpg)
+
+---
+
+## USC Games Expo 2020
+#### Student Producer | May 2020
+
+As the world’s largest single-school games showcase, USC Games Expo provides students, alumni, and faculty the opportunity to showcase their unique projects. Presented by Jam City, USC Games Expo 2020 not only featured innovative endeavors into console and PC gaming, but also VR and board gaming.
+7-8 hour stream featuring 100+ games
+5000 max viewers, 1200 average viewers
+
+Responsibilities:
+* Collaborated with faculty, students, external partners, and the Esports Union to organize and facilitate the first-ever virtual USC Games Expo
+* Created and implemented a marketing strategy to ensure all trailers, demos, and promotional materials were released in a timely and effective manner
+* Handled late deliverables and communicated with exhibitors to resolve project errors and procure missing assets
+* Assisted technical producers with website development and streaming challenges
+
+{% include embed.html url="https://youtu.be/FLs2rY4QWE4" %}
