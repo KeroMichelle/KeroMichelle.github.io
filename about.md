@@ -15,16 +15,4 @@ Current favorites: Slay the Spire, Pokemon, Rainbow Six Siege
 
 [Click here for my resume.](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
 
-## Flamingos
-
-## No Lines
-![flamingo gif](/assets/images/kero.gif)![flamingo gif](/assets/images/kero.gif)![flamingo gif](/assets/images/kero.gif)
-
-
-![flamingo gif](/assets/images/kero.gif)
-
-![dancing flamingo](/assets/images/kero arms up.gif)
-
-![flamingo crop1](/assets/images/kero crop1.jpg)
-
-![flamingo crop2](/assets/images/kero crop2.jpg)
+    ![flamingo gif](/assets/images/kero.gif)    ![flamingo gif](/assets/images/kero.gif)
