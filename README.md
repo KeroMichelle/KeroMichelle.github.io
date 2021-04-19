@@ -10,7 +10,7 @@ Minors in Project Management, Video Game Programming
 My career goal is to deliver impactful, immersive games by crafting collaborative work environments.
 I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
 
-Current favorites: Slay the Spire, Animal Crossing, Rainbow Six Siege
+Current favorites: Slay the Spire, Pokemon, Rainbow Six Siege
 
 Click here for my resume.
 
