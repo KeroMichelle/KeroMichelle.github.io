@@ -12,7 +12,7 @@ Responsibilities:
 * Recruited and oversaw a team of 30+ student workers across 5 departments: writing, film, video production, graphic design, and social media
 * Managed the workflow and production of creative content covering students, esports, and events
 * Supported multiple writing and video projects in various stages of production simultaneously, while communicating progress to department leads and faculty advisors
-* Led weekly management and monthly all-staff meetings to track progress and brainstorm content ideas
+* Led weekly staff and monthly team meetings to track progress and brainstorm content ideas
 * Defined, implemented, and continuously monitored strategies to drive awareness and achieve the academic, professional, and community goals of USC Games
  
  
