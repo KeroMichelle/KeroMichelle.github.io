@@ -16,7 +16,7 @@ minimal: true             # hide the box-shadow from header and footer
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "home.html"}
+  - {file: "home.md"}
   - {file: "about.md"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
