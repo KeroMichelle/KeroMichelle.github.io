@@ -18,7 +18,7 @@ Current favorites: Slay the Spire, Pokemon, Rainbow Six Siege
 ## Flamingos
 
 ## No Lines
-![flamingo gif](/assets/images/kero.gif)![dancing flamingo](/assets/images/kero arms up.gif)
+![flamingo gif](/assets/images/kero.gif) ![flamingo gif](/assets/images/kero.gif) ![flamingo gif](/assets/images/kero.gif)
 
 
 ![flamingo gif](/assets/images/kero.gif)
