@@ -1,6 +1,6 @@
 ---
 title: "Leechbug"
-permalink: "/leechbug/"
+permalink: "/leechbug"
 layout: page
 ---
 
@@ -19,6 +19,8 @@ Responsibilities:
 * Work with teams to resolve problems and adjust production schedules as needed
 * Conduct weekly progress and wellness check-ins with a remote multidisciplinary team of 28 students
  
-![expo](/assets/images/expo.jpg)
+![statue](/assets/images/statue.png)
+![statue](/assets/images/plants.mp4)
 
-{% include embed.html url="https://youtu.be/OWOuS1a_mzs" %}
+
+{% include embed.html url="https://www.youtube.com/watch?v=OWOuS1a_mzs&ab_channel=Glowcone" %}
