@@ -30,6 +30,6 @@ As the world's largest single-school games showcase, USC Games Expo provides stu
 Responsibilities:
 * Collaborated with faculty, students, external partners, and the Esports Union to organize and facilitate the first-ever virtual USC Games Expo
 * Created and implemented a marketing strategy to ensure all trailers, demos, and promotional materials were released in a timely and effective manner
-* Handled late deliverables and communicated with exhibitors to resolve project errors and procure missing assets
+* Handled late deliverables and communicated with exhibitors to resolve problems and procure missing assets
   
 ![expo2020](/assets/images/expo2020.jpg)
