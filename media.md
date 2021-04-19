@@ -32,5 +32,5 @@ Responsibilities:
 * Created and implemented a marketing strategy to ensure all trailers, demos, and promotional materials were released in a timely and effective manner
 * Handled late deliverables and communicated with exhibitors to resolve project errors and procure missing assets
 * Assisted technical producers with website development and streaming challenges
- 
-{% include embed.html url="https://www.youtube.com/watch?v=FLs2rY4QWE4&ab_channel=USCGames" %}
+
+[Check out the recap video!](https://youtu.be/FLs2rY4QWE4){:target="_blank"}
