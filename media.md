@@ -20,7 +20,7 @@ Responsibilities:
 ---
  
 ## USC Games Expo 2020
-#### Student Producer | May 2020
+#### Student Producer | Apr 2020 - May 2020
  
 As the world's largest single-school games showcase, USC Games Expo provides students, alumni, and faculty the opportunity to showcase their unique projects. USC Games Expo 2020 not only featured innovative endeavors into console and PC gaming, but also VR and tabletop gaming.
  
