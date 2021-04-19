@@ -8,7 +8,7 @@ Hi! I'm a <orange>**game producer**</orange> and **designer** attending the USC 
  
 Hi! I'm a **game producer** and **designer** attending the USC School of Cinematic Arts.
  
-Hi! I''m a <style="color:#FF9900";>**game producer** and **designer**</>attending the USC School of Cinematic Arts.
+Hi! I''m a <orange>**game producer**</orange> and <green>**designer**</green> attending the USC School of Cinematic Arts.
  
 Hi! I''m a <style="color:#FF9900";>**game producer** and **designer**</style>attending the USC School of Cinematic Arts.
 
