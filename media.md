@@ -14,5 +14,5 @@ Responsibilities:
 * Led weekly management and monthly all-staff meetings to track progress, brainstorm new content and event ideas, foster ownership, and build strong team culture
 * Defined, implemented, and continuously monitored strategies to drive awareness and achieve the academic, professional, and community goals of USC Games
  
-
+ 
 ![expo](/assets/images/expo.jpg)
