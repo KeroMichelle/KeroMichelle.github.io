@@ -8,11 +8,8 @@ Hi! I'm a **game producer** and **designer** attending the USC School of Cinemat
 * BA in Interactive Media & Game Design (2018 - 2022)
 * Minors in Project Management, Video Game Programming
  
-My career goal is to deliver impactful, immersive games by crafting collaborative work environments.
-I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
+My career goal is to deliver impactful, immersive games by crafting collaborative work environments. I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
 
-Current favorites: Slay the Spire, Pokemon, Rainbow Six Siege
-
-[Add me on LinkedIn!](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
-
+Current favorites <3 Slay the Spire, Pokemon, Rainbow Six Siege
 ![flamingo gif](/assets/images/kero.gif)
+[Add me on LinkedIn!](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
