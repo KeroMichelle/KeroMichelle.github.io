@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page
 ---
  
-Hi! I''m a <orange>game producer</orange> and <green>designer</green> attending the USC School of Cinematic Arts.
+Hi! I'm a <orange>game producer</orange> and <green>designer</green> attending the USC School of Cinematic Arts.
 
 
 > BA in Interactive Media & Game Design (2018 - 2022)
