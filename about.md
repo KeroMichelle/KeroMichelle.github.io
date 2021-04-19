@@ -15,3 +15,5 @@ Current favorites <3 Slay the Spire, Pokemon, Rainbow Six Siege
 ![flamingo gif](/assets/images/kero.gif)
  
 [Add me on LinkedIn!](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
+ 
+[Click here for my resume.](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
