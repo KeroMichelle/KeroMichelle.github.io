@@ -6,7 +6,7 @@ layout: page
 
 #### Lead Producer | Team of 28 | Spring 2020 - Present
 
-Leechbug is an action-adventure roguelike game with a focus on strategic combat and environmental storytelling. The player is a robot parasite who must recruit a swarm of alien fish, defeat powerful creatures, and uncover the secrets of a long-lost civilization. Each species is armed with a unique attack, active and passive abilities, and distinctive personality, rewarding swarm synergy and deliberate gameplay. Combat is unforgiving but satisfying, and each run presents a different series of challenges. Leechbug is set to release in May 2021.
+Leechbug is an action-adventure roguelike game with a focus on strategic combat and environmental storytelling. The player is a robot parasite who must recruit a swarm of alien fish, defeat powerful creatures, and uncover the secrets of a long-lost civilization. Each species is armed with a unique attack, active and passive abilities, and distinctive personality, rewarding swarm synergy and deliberate gameplay. Combat is unforgiving but satisfying, and each run presents a different series of challenges.
 
 [Check out our Beta demo!](https://youtu.be/OWOuS1a_mzs){:target="_blank"}
 
