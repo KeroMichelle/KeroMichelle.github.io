@@ -12,18 +12,16 @@ body
   -moz-osx-font-smoothing: grayscale
 
 // mobile
-
 @media (prefers-color-scheme: dark)
   body
     background: $dark
     color: $light
+  img.home
+    margin: .5em 0
+    border-radius: 2px
+    max-width: 100%
+    height: auto
 
-@media screen (min-width: 300px) and (max-width: 900px)
-    img.home
-        margin: .5em 0
-        border-radius: 2px
-        max-width: 100%
-        height: auto
 
 h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
