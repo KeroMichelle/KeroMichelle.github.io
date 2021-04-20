@@ -10,8 +10,7 @@ Hi! I'm a <b><orange>game producer</orange></b> and <b><green>designer</green></
 * Minors in Project Management, Video Game Programming
  
 My career goal is to deliver impactful, immersive games by crafting collaborative work environments. I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
-
-
+ 
 Current favorites: Slay the Spire, Pokemon, Rainbow Six Siege
  
 #### [Click here for my resume.](https://www.linkedin.com/in/michelleliu6/){:target="_blank"}
