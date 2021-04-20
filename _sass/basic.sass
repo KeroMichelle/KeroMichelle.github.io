@@ -18,7 +18,7 @@ body
     background: $dark
     color: $light
 
-@media only screen and (max-width: 900px)
+@media screen (min-width: 300px) and (max-width: 900px)
     img.home
         margin: .5em 0
         border-radius: 2px
@@ -98,12 +98,11 @@ img.home
   border-radius: 2px
   max-width: 50%
   height: auto
-  transition: .2s opacity
 
 img.home:hover
-  color: reduce(100)
   max-width: 50%
   height: auto
+  greyscale: 25%
 
 
 table
