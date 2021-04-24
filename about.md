@@ -9,7 +9,9 @@ Hi! I'm a <b><orange>game producer</orange></b> and <b><olive>designer</olive></
 * BA in Interactive Media & Game Design (2018 - 2022)
 * Minors in Project Management, Video Game Programming
  
-My career goal is to deliver impactful, immersive games by crafting collaborative work environments. I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
+As a <b><orange>producer</orange></b>, I craft collaborative work environments. I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
+ 
+As a <b><olive>designer</olive></b>, I build worlds and mechanics to engage with players in intentional ways. I combine satisfying gameplay with immersive storytelling to create fun and meaningful experiences.
  
 Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon
  
