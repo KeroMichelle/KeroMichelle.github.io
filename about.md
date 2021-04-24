@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page
 ---
  
-Hi! I'm a <b><orange>game producer</orange></b> and <b><olive>designer</olive></b> attending the USC School of Cinematic Arts.
+Hi! I'm a student game dev attending the USC School of Cinematic Arts.
  
 * BA in Interactive Media & Game Design (2018 - 2022)
 * Minors in Project Management, Video Game Programming
@@ -13,10 +13,10 @@ As a <b><orange>producer</orange></b>, I craft collaborative work environments. 
  
 As a <b><olive>designer</olive></b>, I build worlds and mechanics to engage with players in intentional ways. I combine satisfying gameplay with immersive storytelling to create fun and meaningful experiences.
  
-Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon
- 
 #### [Click here for my resume.](https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing){:target="_blank"}
  
 <img src="/assets/images/kero.gif" alt="kero" width="340"/>
+ 
+Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon
  
 <small>Other interests: arts & crafts, college radio, animation, tea, hiking</small>
