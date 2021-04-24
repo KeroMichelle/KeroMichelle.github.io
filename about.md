@@ -17,4 +17,4 @@ Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon
  
 <img src="/assets/images/kero.gif" alt="kero" width="340"/>
  
-<small>Other interests: arts & crafts, college radio, [anime](https://anilist.co/user/KeroMichelle/){:target="_blank"}, tea, hiking</small>
+<small>Other interests: arts & crafts, college radio, animation, tea, hiking</small>
