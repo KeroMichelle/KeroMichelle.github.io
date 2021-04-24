@@ -13,7 +13,7 @@ My career goal is to deliver impactful, immersive games by crafting collaborativ
  
 Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon
  
-#### [Click here for my resume.](https://drive.google.com/file/d/1Ie7-PaHFRdDOreTvTdmo6_HWRIuGmfZT/view?usp=sharing){:target="_blank"}
+#### [Click here for my resume.](https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing){:target="_blank"}
  
 <img src="/assets/images/kero.gif" alt="kero" width="340"/>
  
