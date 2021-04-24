@@ -4,7 +4,7 @@ permalink: "/leechbug"
 layout: page
 ---
 
-### <orange>Lead Producer</orange> | <orange>Team of 28</orange> | <green>May 2020 - Present</green>
+### <orange>Lead Producer</orange> | <orange>Team of 28</orange> | <olive>May 2020 - Present</olive>
 
 Leechbug is an action-adventure roguelike game with a focus on strategic combat and environmental storytelling. The player is a robot parasite who must recruit a swarm of alien fish, defeat powerful creatures, and uncover the secrets of a long-lost civilization. Each species is armed with a unique attack, active and passive abilities, and distinctive personality, rewarding swarm synergy and deliberate gameplay. Combat is unforgiving but satisfying, and each run presents a different series of challenges.
 
