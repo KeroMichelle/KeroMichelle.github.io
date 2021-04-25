@@ -19,7 +19,7 @@
   background: $link-color
   text-decoration: inherit
 
-// container for home page clickable images that fade on hover
+// containers for home page clickable images that fade on hover
 .container1
   position: relative
   float: left
@@ -66,6 +66,24 @@
   -ms-transform: translate(-50%, -50%)
   transform: translate(-50%, -50%)
   text-align: center
+
+// mobile
+@media screen and (max-width: 1200px)
+  .container1
+    position: relative
+    width: 100%
+    padding: 0
+
+  .container1:hover .overlay
+    opacity: .85
+
+  .container2
+    position: relative
+    width: 100%
+    padding: 0
+
+  .container2:hover .overlay
+    opacity: .85
 
 .icon
   height: 1em
