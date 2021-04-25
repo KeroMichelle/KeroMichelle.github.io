@@ -16,7 +16,7 @@ layout: page
 </div>
 
 <div class="container4">
-  <img src="/assets/images/kero.gif" alt="kero" width="340"/>
+  <img src="/assets/images/kero.gif" alt="kero"/>
 </div> 
  
 <div class="container3">
