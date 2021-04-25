@@ -20,6 +20,6 @@ layout: page
 </div> 
  
 <div class="container3">
-  <h4><div class="button"><a href="https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing target="_blank">Resume</a></div></h4>
+  <a href="https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing target="_blank">Resume</a>
   <small>Favorite games: Slay the Spire, Rainbow Six Siege, Pokemon</small><br><small>Interests: arts & crafts, college radio, animation, tea, hiking</small>
 </div>
