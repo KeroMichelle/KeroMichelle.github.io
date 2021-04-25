@@ -20,3 +20,8 @@ As a <b><orange>designer</orange></b>, I build worlds and mechanics to engage wi
 <small>Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon</small>
  
 <small>Other interests: arts & crafts, college radio, animation, tea, hiking</small>
+
+|Leechbug|USC Games Media|
+
+Leechbug|USC Games Media
+<img src="/assets/images/kero.gif" alt="kero" width="340"/>|<img src="/assets/images/kero.gif" alt="kero" width="340"/>
