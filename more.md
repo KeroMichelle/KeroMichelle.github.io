@@ -4,7 +4,7 @@ permalink: "/more"
 layout: page
 ---
 
-### <orange>Some more things to check out...</orange>
+### <orange>Check these out :' )</orange>
   
 ![orbit](/assets/images/orbit.png)
  
