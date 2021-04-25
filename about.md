@@ -4,7 +4,7 @@ permalink: "/about"
 layout: page
 ---
  
-Hi! I'm a student game dev attending the USC School of Cinematic Arts.
+Hi! I'm a <b><olive>student game dev</olive></b> attending the USC School of Cinematic Arts.
  
 * BA in Interactive Media & Game Design (2018 - 2022)
 * Minors in Project Management, Video Game Programming
