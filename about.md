@@ -19,9 +19,7 @@ layout: page
   <img src="/assets/images/kero.gif" alt="kero" width="340"/>
 </div> 
  
- 
-#### [<b>Click here for my resume.</b>](https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing){:target="_blank"}
- 
-<img src="/assets/images/kero.gif" alt="kero" width="340"/>
- 
-<small>Favorite games: Slay the Spire, Rainbow Six Siege, Pokemon</small><br><small>Interests: arts & crafts, college radio, animation, tea, hiking</small>
+<div class="container3">
+  #### [<b>Click here for my resume.</b>](https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing){:target="_blank"} 
+  <small>Favorite games: Slay the Spire, Rainbow Six Siege, Pokemon</small><br><small>Interests: arts & crafts, college radio, animation, tea, hiking</small>
+</div>
