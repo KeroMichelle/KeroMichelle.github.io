@@ -6,6 +6,4 @@ layout: page
 
 ### <orange>Check these out :' )</orange>
   
-![orbit](/assets/images/orbit.png)
- 
-![scrap](/assets/images/scrap.png)
+![orbit](/assets/images/orbit.png)|![scrap](/assets/images/scrap.png)
