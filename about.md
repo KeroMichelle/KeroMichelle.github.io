@@ -17,6 +17,6 @@ As a <b><orange>designer</orange></b>, I build worlds and mechanics to engage wi
  
 <img src="/assets/images/kero.gif" alt="kero" width="340"/>
  
-<small>Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon</small><br>
+<small>Current favorites: Slay the Spire, Rainbow Six Siege, Pokemon</small>
  
 <small>Other interests: arts & crafts, college radio, animation, tea, hiking</small>
