@@ -20,9 +20,23 @@
   text-decoration: inherit
 
 // container for home page clickable images that fade on hover
-.container
-  position: relative
+.container1
+  // position: relative
+  float: left
   width: 50%
+  padding: 5px
+
+.container1:hover .overlay
+  opacity: .80
+
+.container2
+  // position: relative
+  float: right
+  width: 50%
+  padding: 5px
+
+.container2:hover .overlay
+  opacity: .80
 
 .image
   display: block
@@ -40,9 +54,6 @@
   opacity: 0
   transition: .6s ease
   background-color: $orange
-
-.container:hover .overlay
-  opacity: .80
 
 .text
   color: $beige
