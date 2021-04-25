@@ -25,7 +25,7 @@ As the world's largest single-school games showcase, USC Games Expo provides stu
  
 #### _8 hour stream featuring 100+ games | 5000 max viewers, 1200 avg viewers | front page of Twitch : D_
  
-#### [Check out the recap video!](https://youtu.be/FLs2rY4QWE4){:target="_blank"}
+#### [<u>Check out the recap video!</u>](https://youtu.be/FLs2rY4QWE4){:target="_blank"}
  
 Responsibilities:
 * Collaborated with faculty, students, external partners, and the Esports Union to organize and facilitate the first-ever virtual USC Games Expo
