@@ -16,10 +16,11 @@ body > header, body > footer
   background: lighten($olive, 2%)
   color: $light
 
-@media (min-width: 32em)
+// @media (min-width: 32em)
+
+@media screen and (max-width: 800px)
   body > header, body > article, body > footer
-    padding: 1.65em calc(22% - 10em)
-    // padding: 1.65em calc(22% - 6em)
+    padding: 1.65em calc(22% - 6em)
 
 @media (prefers-color-scheme: dark)
   body, body > header, body > footer
