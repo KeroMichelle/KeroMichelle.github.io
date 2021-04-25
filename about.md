@@ -17,9 +17,15 @@ layout: page
 
 <div class="container4">
   <img src="/assets/images/kero.gif" alt="kero"/>
-</div> 
+</div>
  
 <br>
+ 
+<div class="container3">
+  #### [<b>Click here for my resume.</b>](https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing){:target="_blank"}
+  <small>Favorite games: Slay the Spire, Rainbow Six Siege, Pokemon</small><br><small>Interests: arts & crafts, college radio, animation, tea, hiking</small>
+</div>
+
  
 #### [<b>Click here for my resume.</b>](https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing){:target="_blank"}
  
