@@ -21,6 +21,33 @@ body
     border-radius: 1px
     max-width: 100%
     height: auto
+  table
+    border: 0
+    border-collapse: collapse
+
+  table thead
+    display: none
+
+  table tr 
+    margin-bottom: 10px
+    display: block
+    border-bottom: 2px solid #ddd
+
+  table td
+    display: block
+    text-align: left
+    font-size: 13px
+    border-bottom: 1px dotted #ccc
+
+  table td:last-child
+    border-bottom: 0
+
+  table td:before
+    content: attr(data-label)
+    float: left
+    text-transform: uppercase
+    font-weight: bold
+    margin-right: 20px
 
 
 h1, h2, h3, h4, h5, h6
@@ -114,6 +141,7 @@ table
   border-radius: 0
   // border-radius: 2px
   // box-shadow: 0 0 0 1px reduce(12) inset
+  border-collapse: collapse
 
 th, td
   padding: .2em .2em
@@ -122,10 +150,11 @@ th, td
 tr:hover, tr:nth-child(odd) td
   // background: reduce(4)
 
-
+/*
 @media only screen and (max-width: 1200px)
 table
       border: 0
+      border-collapse: collapse
 
     table thead
       display: none
@@ -150,7 +179,7 @@ table
       text-transform: uppercase
       font-weight: bold
       margin-right: 20px
-
+*/
 
 pre
   background: reduce(12)
