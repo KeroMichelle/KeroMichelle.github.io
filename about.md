@@ -9,9 +9,9 @@ layout: page
 
   <li>BA in Interactive Media & Game Design (2018 - 2022)</li>
   <li>Minors in Project Management, Video Game Programming</li>
-   
+  <br>
   As a <b><orange>producer</orange></b>, I craft collaborative work environments. I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
-  <br>   
+  <br><br>
   As a <b><orange>designer</orange></b>, I build worlds and mechanics to engage with players in intentional ways. I combine satisfying gameplay with immersive storytelling to create fun and meaningful experiences.
 </div>
 
