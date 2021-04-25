@@ -14,6 +14,7 @@ layout: page
   <br>
   As a <b><orange>designer</orange></b>, I build worlds and mechanics to engage with players in intentional ways. I combine satisfying gameplay with immersive storytelling to create fun and meaningful experiences.
   <br>
+  [<b>Click here for my resume.</b>](https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing){:target="_blank"}
   <h3><div class="button"><a href="https://drive.google.com/file/d/1AKyIY1TZsOQoJ51c2OlOMfBiSViqMt8j/view?usp=sharing target="_blank">Resume</a></div></h3>
   <small>Favorite games: Slay the Spire, Rainbow Six Siege, Pokemon</small><br><small>Interests: arts & crafts, college radio, animation, tea, hiking</small>
 </div>
