@@ -2,7 +2,7 @@
 title: "About"
 permalink: "/about"
 layout: page
-
+---
 
 <div class="container3">
   Hi! I'm a <b><olive>student game dev</olive></b> attending the USC School of Cinematic Arts.
