@@ -6,8 +6,9 @@ layout: page
  
 Hi! I'm a <b><olive>student game dev</olive></b> attending the USC School of Cinematic Arts.
  
-<medium>&emsp BA in Interactive Media & Game Design (2018 - 2022)<medium>
-<medium>&emsp Minors in Project Management, Video Game Programming<medium>
+<medium>&emsp;BA in Interactive Media & Game Design (2018 - 2022)</medium><br><medium>&emsp;Minors in Project Management, Video Game Programming</medium>
+ 
+&emsp;<medium>Minors in Project Management, Video Game Programming</medium<br>&emsp;<medium>Minors in Project Management, Video Game Programming</medium>>
  
 As a <b><orange>producer</orange></b>, I craft collaborative work environments. I aim to empower my teammates with the resources and direction needed to overcome challenges and take creative ownership.
  
