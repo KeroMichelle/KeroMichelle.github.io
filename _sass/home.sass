@@ -1,0 +1,129 @@
+// containers for home page clickable images that fade on hover
+.container1
+  position: relative
+  float: left
+  width: 49%
+  height: auto
+  padding: 0
+  margin-bottom: .3em
+
+.container1:hover .overlay1
+  opacity: .90
+
+.container2
+  position: relative
+  float: right
+  width: 49%
+  height: auto
+  padding: 0
+  margin-bottom: .3em
+
+.container2:hover .overlay2
+  opacity: .90
+
+.container3
+  position: relative
+  float: left
+  width: 49%
+  height: auto
+  padding: 0
+  margin-bottom: .3em
+
+.container3:hover .overlay2
+  opacity: .90
+
+.container4
+  position: relative
+  float: right
+  width: 49%
+  height: auto
+  padding: 0
+  margin-bottom: .3em
+
+.container4:hover .overlay1
+  opacity: .90
+
+.image
+  display: block
+  width: 100%
+  height: auto
+
+.overlay1
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  height: 100%
+  width: 100%
+  opacity: 0
+  transition: .6s ease
+  background-color: $orange
+
+.overlay2
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  height: 100%
+  width: 100%
+  opacity: 0
+  transition: .6s ease
+  background-color: $green
+
+.text
+  color: $beige
+  position: absolute
+  top: 50%
+  left: 50%
+  -webkit-transform: translate(-50%, -50%)
+  -ms-transform: translate(-50%, -50%)
+  transform: translate(-50%, -50%)
+  text-align: center
+
+// mobile
+@media screen and (max-width: 900px)
+  .container1
+    position: relative
+    width: 100%
+    padding: 0
+    margin-bottom: .5em
+
+  .container1:hover .overlay1
+    opacity: .90
+
+  .container2
+    position: relative
+    width: 100%
+    padding: 0
+    margin-bottom: .5em
+
+  .container2:hover .overlay2
+    opacity: .90
+
+  .container3
+    position: relative
+    width: 100%
+    padding: 0
+    margin-bottom: .5em
+
+  .container3:hover .overlay1
+    opacity: .90
+
+  .container4
+    position: relative
+    width: 100%
+    padding: 0
+    margin-bottom: .5em
+
+  .container4:hover .overlay2
+    opacity: .90
+
+.icon
+  height: 1em
+  width: 1em
+  fill: currentColor
+  transition: .2s color
+  vertical-align: middle
+  margin-bottom: .15em
