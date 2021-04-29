@@ -103,71 +103,54 @@
   transform: translate(-50%, -50%)
   text-align: center
 
-.aboutproducer
+.aboutrow
   position: relative
+  width: 100%
+  height: auto
+  padding: 0
+  margin-bottom: .7em
+
+.aboutproducer-og
+  position: absolute
   float: left
-  width: 48%
-  height: auto
-  padding: 0
-  margin-bottom: .7em
+  padding: .2em
 
-.aboutproducer:hover .aboutproducer-hover
-  opacity: 1
-
-.aboutdesigner
-  position: relative
-  float: right
-  width: 48%
-  height: auto
-  padding: 0
-  margin-bottom: .7em
-
-.aboutdesigner:hover .aboutdesigner-hover
+.aboutproducer-og:hover .aboutproducer-hover
   opacity: 1
 
 .aboutproducer-hover
   position: absolute
-  top: 0
-  bottom: 0
-  left: 0
-  right: 0
   height: 100%
   width: 100%
-  opacity: 0
-  transition: .6s ease
-  background-color: $green
+  padding: .2em
+
+
+.aboutdesigner-og
+  position: absolute
+  float: right
+  padding: .2em
+
+.aboutdesigner-og:hover .aboutdesigner-hover
+  opacity: 1
 
 .aboutdesigner-hover
   position: absolute
-  top: 0
-  bottom: 0
-  left: 0
-  right: 0
   height: 100%
   width: 100%
-  opacity: 0
-  transition: .6s ease
-  background-color: $orange
+  padding: .2em
 
-.abouttext
+
+.abouttext-og
   color: $dark
   position: absolute
-  top: 50%
-  left: 50%
-  -webkit-transform: translate(-50%, -50%)
-  -ms-transform: translate(-50%, -50%)
-  transform: translate(-50%, -50%)
   text-align: center
 
 .abouttext-hover
   color: $beige
   position: absolute
-  top: 10%
-  left: 10%
-  -webkit-transform: translate(-50%, -50%)
-  -ms-transform: translate(-50%, -50%)
-  transform: translate(-50%, -50%)
   text-align: center
+
+
 
 // mobile
 @media screen and (max-width: 900px)
