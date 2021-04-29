@@ -14,7 +14,7 @@ Responsibilities:
 * Supported multiple writing and video projects in various stages of production simultaneously, while communicating progress to department leads and faculty advisors
 * Led weekly staff and monthly team meetings to track progress and brainstorm content ideas
  
-![expo](/assets/images/expo.jpg)
+![expo](/assets/images/expo.png)
  
 ---
  
@@ -32,4 +32,4 @@ Responsibilities:
 * Created and implemented a marketing strategy to ensure all trailers, demos, and promotional materials were released in a timely and effective manner
 * Handled late deliverables and communicated with exhibitors to resolve problems and procure missing assets
   
-![expo2020](/assets/images/expo2020.jpg)
+![expo2020](/assets/images/expo2020.png)
