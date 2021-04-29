@@ -1,6 +1,6 @@
 ---
 title: "Leechbug"
-permalink: "/leechbug"
+permalink: "/leechbug-md"
 layout: page
 ---
 

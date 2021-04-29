@@ -1,6 +1,6 @@
 ---
 title: "Harvest"
-permalink: "/harvest"
+permalink: "/harvest-md"
 layout: page
 ---
 

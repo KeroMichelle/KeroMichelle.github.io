@@ -1,6 +1,6 @@
 ---
 title: "USC Games Media"
-permalink: "/media"
+permalink: "/media-md"
 layout: page
 ---
 
