@@ -103,6 +103,52 @@
   transform: translate(-50%, -50%)
   text-align: center
 
+.aboutproducer
+  position: relative
+  float: left
+  width: 49%
+  height: auto
+  padding: 0
+  margin-bottom: .7em
+
+.aboutproducer:hover .aboutproducertext
+  opacity: 1
+
+.aboutdesigner
+  position: relative
+  float: right
+  width: 49%
+  height: auto
+  padding: 0
+  margin-bottom: .7em
+
+.aboutdesigner:hover .aboutdesignertext
+  opacity: 1
+
+.aboutproducertext
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  height: 100%
+  width: 100%
+  opacity: 0
+  transition: .6s ease
+  background-color: $green
+
+.aboutdesignertext
+  position: absolute
+  top: 0
+  bottom: 0
+  left: 0
+  right: 0
+  height: 100%
+  width: 100%
+  opacity: 0
+  transition: .6s ease
+  background-color: $orange
+
 // mobile
 @media screen and (max-width: 900px)
   .box1
