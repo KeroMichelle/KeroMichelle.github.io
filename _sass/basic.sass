@@ -28,9 +28,9 @@ body
 h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
 
-h2-spaced
-  font-weight: $heading-weight
-  letter-spacing: 1px
+h1
+  font-size: 3em
+  // default is 2em, h1 is not specified individually
 
 b, strong, th
   font-weight: $font-weight + 200
@@ -84,17 +84,6 @@ img
   border-radius: 0px
   max-width: 100%
   height: auto
-
-img.home
-  margin: .5em 0
-  border-radius: 0px
-  max-width: 50%
-  height: auto
-
-img.home:hover
-  max-width: 50%
-  height: auto
-  grayscale: 25%
 
 table
   // display: inline-block
