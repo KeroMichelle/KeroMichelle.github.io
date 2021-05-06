@@ -13,15 +13,18 @@ layout: default
 <form id="fs-frm" name="simple-contact-form" accept-charset="utf-8" action="https://formspree.io/f/xwkavzpe" method="post">
   <fieldset id="fs-frm-inputs">
     <p>
-    <label for="full-name">Name *</label>
+    <b><green><label for="full-name">Name *</label></green></b>
+    <br>
     <input type="text" name="name" id="full-name" placeholder="" required="">
     </p>
     <p>
-    <label for="email-address">Email Address *</label>
+     <b><green><label for="email-address">Email Address *</label></green></br>
+    <br>
     <input type="email" name="_replyto" id="email-address" placeholder="" required="">
     </p>
     <p>
-    <label for="message">Message *</label>
+    <b><green><label for="message">Message *</label></green></br>
+    <br>
     <textarea rows="5" name="message" id="message" placeholder="" required=""></textarea>
     </p>
     <input type="hidden" name="_subject" id="email-subject" value="Contact Form Submission">
