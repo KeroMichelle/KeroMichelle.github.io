@@ -9,8 +9,8 @@ layout: page
 USC Games Media is a faculty and student-run organization within the Interactive Media & Games Division of the USC School of Cinematic Arts. As the Director, I guided the program's overall vision and brand image through content creation, industry involvement, and community engagement.
 
 Responsibilities:
-* Recruited and oversaw a team of 30+ student workers across 5 departments: writing, film, video production, graphic design, and social media
-* Managed the workflow and production of creative content covering students, esports, and events
+* Recruited and managed a team of 30+ student workers across 5 departments: writing, film, video production, graphic design, and social media
+* Owned the workflow and production of creative content covering students, esports, and industry events
 * Supported multiple writing and video projects in various stages of production simultaneously, while communicating progress to department leads and faculty advisors
 * Led weekly staff and monthly team meetings to track progress and brainstorm content ideas
  
